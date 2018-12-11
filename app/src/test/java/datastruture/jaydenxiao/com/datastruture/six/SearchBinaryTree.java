@@ -4,7 +4,7 @@ import java.util.NoSuchElementException;
 
 /**
  * 类名：SearchBinaryTree.java
- * 描述：二叉树排序
+ * 描述：二叉排序树
  * 作者：xsf
  * 创建时间：2018/12/9
  * 最后修改时间：2018/12/9
